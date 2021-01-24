@@ -1,3 +1,4 @@
+<!-- Required extensions: attr_list -->
 ITEMS NEEDED:
 
 * Electric smoker (e.g. Smokehouse Products Big Chief)
@@ -16,6 +17,8 @@ MARINADE:
 * ½ tsp. onion powder
 * ½ tsp. garlic powder
 * ½ tsp. black pepper
+
+{: style="page-break-before: always" }
 
 INSTRUCTIONS:
 
