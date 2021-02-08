@@ -13,10 +13,10 @@ MARINADE:
 * 1 Cup water
 * 1 Cup white wine
 * ⅓ Cup brown sugar
-* ½ tsp. Tabasco sauce
 * ½ tsp. onion powder
 * ½ tsp. garlic powder
 * ½ tsp. black pepper
+* ½ tsp. Tabasco sauce
 
 {: style="page-break-before: always" }
 
