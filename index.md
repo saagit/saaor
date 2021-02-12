@@ -32,11 +32,12 @@ INSTRUCTIONS:
 * Remove drip pan and racks from smoker.
 * Completely cover drip pan with foil and spray smoker racks with
   cooking spray.
-* Arrange the salmon chunks on the racks.  All the chunks on a
-  rack should be of similar thickness.
-* Allow the salmon to air dry for approximately 45 minutes.  The
-  surface should be dull and no longer look wet.  15 minutes into
-  the air drying time, plug in the smoker to preheat.
+* Remove the salmon chunks from the marinade, pat them dry with paper
+  towels and put them on the racks with all the chunks on a rack
+  having similar thickness.
+* Plug in the smoker to preheat.
+* Allow the salmon to air dry for approximately 30 minutes.  The
+  surface should be dull and no longer look wet.
 * Once the salmon has air dried and the smoker is preheated, place
   the drip pan into the smoker.
 * Place the loaded racks in the smoker arranging them so the
